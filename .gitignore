@@ -11,3 +11,11 @@
 db/
 *.db_info
 *.flock
+
+*.qws
+*.rpt
+*.bak
+
+incremental_db/
+output_files/
+simulation/
